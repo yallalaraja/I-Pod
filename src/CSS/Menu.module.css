@@ -4,8 +4,8 @@
     width: 150px;
     height: calc(100% - 16px);
     font-family: 'Hind', sans-serif;
-    background-color: white;
-    color: #4facfe;
+    background-color: rgb(255, 255, 255);
+    color: #080808;
     border-bottom-left-radius: 5px;
 }
 
@@ -40,8 +40,8 @@
 }
 
 .optionIcon {
-    width: 50px;
-    height: 100%;
+    width: 30px;
+    height: 50%;
     padding: 5px;
 }
 

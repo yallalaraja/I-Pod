@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "---\r  <div\r             style=\"margin: 0px; padding: 0px; background-color: black; color: white; display: flex; flex-direction: column;\">\r             <div style=\"height: 400px; width:266px\"><img style=\"height: 400px; width:266px\" src=\"src/Image/3.png\" alt=\"\"></div>\r             <div>\r                 <ol>\r                     <li>MENU: previous menu/back button</li>\r                     <li>OK: go to the selected option</li>\r                     <li>...</li>\r                     <li>previous song</li>\r                     <li>next song</li>\r                     <li>play/pause button</li>\r                     <li>press and hold + rotate clockwise direction to select the next option</li>\r                     <li>press and hold + rotate counterclockwise direction to go to the previous option</li>\r                 </ol>\r             </div>\r         </div>",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }

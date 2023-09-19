@@ -6,7 +6,7 @@
     position: relative;
     background-color: black;
     font-family: 'Hind', sans-serif;
-    color: #4facfe;
+    color: #f5f6f1;
     z-index: 0;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -18,7 +18,7 @@
     width: 100%;
     height: 205px;
     background-size: cover;
-    z-index: -1;
+    z-index: 2;
     opacity: 0.3;
 }
 
@@ -73,7 +73,7 @@
     -webkit-appearance: none;
     width: 1px;
     height: 20px;
-    box-shadow: -400px 0 0 400px cyan;
+    box-shadow: -400px 0 0 400px rgb(61, 241, 21);
 }
 
 .seekTime {
@@ -83,7 +83,3 @@
     justify-content: space-between;
     padding: 0 5px;
 }
-
-.currentTime {}
-
-.totalTime {}

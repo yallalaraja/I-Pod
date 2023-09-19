@@ -8,7 +8,7 @@
     justify-content: center;
     align-items: center;
     font-family: 'Hind', sans-serif;
-    color: #12cfd9;
+    color: #c8d912;
 }
 
 .buttonOuter {
@@ -31,7 +31,7 @@
     font-weight: 900;
     line-height: 0;
     position: absolute;
-    color: #12cfd9;
+    color: #12d965;
     border: none;
     cursor: pointer;
 }
@@ -66,7 +66,7 @@
     height: 80px;
     width: 80px;
     border-radius: 50%;
-    border: 5px solid silver;
+    border: 5px solid rgb(192, 192, 192);
     position: absolute;
     font-size: 20px;
     line-height: 80px;

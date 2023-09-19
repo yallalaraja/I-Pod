@@ -3,7 +3,7 @@
 .displaySide {
     width: 260px;
     height: 230px;
-    background-image: url("../Image/flower.jpg");
+    background-image: url("../Image/marvel.webp");
     background-size: contain;
     margin: 25px 20px 20px 20px;
     border: 5px solid black;
@@ -25,7 +25,7 @@
     line-height: 14px;
     font-size: 10px;
     padding-left: 5px;
-    color: #4facfe;
+    color: #e1fe4f;
 }
 
 .right {
